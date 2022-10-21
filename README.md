@@ -5,8 +5,8 @@
 
 # About Me
 
-I'm Akshay s rajan. 2nd year BCA student at CASP. Volunteer at Kerala Police Cyberdome and active member of many Tech communities.
-I'm currently working on my Problem solving skills and Development. Looking forward to do some internship.
+I'm Akshay s rajan. 2nd year BCA student at CASP. Volunteer at Kerala Police Cyberdome and active member of Tech communities. I find vulnerabilities in websites. Recently i was able to secure a kerala gov site and some startup companies.
+I'm currently working on my Problem solving and Development skills. Looking forward to do some internship.
 
 # Things I am passionate about
 
