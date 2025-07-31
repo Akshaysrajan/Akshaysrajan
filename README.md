@@ -25,7 +25,7 @@ I'm currently working on my Problem solving and Development skills. Looking forw
 
 # My Latest Blog
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akshaysrajan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akshaysrajan/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akshaysrajan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akshaysrajan/1" alt="Recent Article 1"> 
  
  <br>
  
